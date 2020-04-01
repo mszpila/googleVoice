@@ -1,3 +1,5 @@
+Simple web app to turn on and off the diod connected to ESP32 via Ethereum network without Metamask (manual signing).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
